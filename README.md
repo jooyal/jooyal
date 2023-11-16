@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/jooyal?tab=repositories](https://github.com/jooyal?tab=repositories)
 
-- 💬 Ask me about **Typescript, REST, GraphQL, TypeGraphQL, Microservices, SQL, NoSQL, etc**
+- 💬 Ask me about **Typescript, REST, GraphQL, TypeGraphQL, Microservices, SQL, NoSQL, Docker, ReactJs, NextJs, Apache-Kafka, ...**
 
 - 📫 How to reach me **josepjoyal@gmail.com**
 
