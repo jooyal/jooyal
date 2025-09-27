@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Typescript, REST, GraphQL, TypeGraphQL, Microservices, SQL, NoSQL, Docker, ReactJs, NextJs, Apache-Kafka, ...**
 
-- 📫 How to reach me **josepjoyal@gmail.com**
+- 📫 How to reach me **mail@jooyal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
